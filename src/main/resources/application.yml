@@ -21,6 +21,6 @@ spring:
 
 app:
   security:
-    jwt-secret: 0123456789abcdef0123456789abcdef
+    jwt-secret: <placeholder>
   staffing:
     min-employees-on-site: 2
